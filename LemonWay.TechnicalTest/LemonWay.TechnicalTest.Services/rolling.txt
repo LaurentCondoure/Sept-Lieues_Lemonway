@@ -1,0 +1,8 @@
+2016-08-07 20:03:04,312 [31] INFO LemonWay.TechnicalTest.Services.LemonWayService - Début de la fonction WebMethod Fibonacci avec le paramètre 10
+2016-08-07 20:03:04,346 [31] INFO LemonWay.TechnicalTest.Services.LemonWayService - La langue utilisateur a été défini à : fr-FR
+2016-08-07 20:03:04,348 [31] INFO LemonWay.TechnicalTest.Services.LemonWayService - Début de la fonction Private Fibonacci Calcul avec le paramètre 10
+2016-08-07 20:03:04,348 [31] INFO LemonWay.TechnicalTest.Services.LemonWayService - Fin de la fonction WebMethod Fibonacci avec le paramètre 55
+2016-08-07 20:05:19,129 [16] INFO LemonWay.TechnicalTest.Services.LemonWayService - Début de la fonction WebMethod Fibonacci avec le paramètre 10
+2016-08-07 20:05:19,145 [16] INFO LemonWay.TechnicalTest.Services.LemonWayService - La langue utilisateur a été défini à : fr-FR
+2016-08-07 20:05:19,146 [16] INFO LemonWay.TechnicalTest.Services.LemonWayService - Début de la fonction Private Fibonacci Calcul avec le paramètre 10
+2016-08-07 20:05:19,146 [16] INFO LemonWay.TechnicalTest.Services.LemonWayService - Fin de la fonction WebMethod Fibonacci avec le paramètre 55

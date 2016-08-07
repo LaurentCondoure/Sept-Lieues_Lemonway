@@ -1,0 +1,8 @@
+C:\Dev\LemonWay.TechnicalTest\LemonWay.TechnicalTest.Services.Tests\obj\Debug\LemonWay.TechnicalTest.Services.Tests.csprojResolveAssemblyReference.cache
+C:\Dev\LemonWay.TechnicalTest\LemonWay.TechnicalTest.Services.Tests\bin\Debug\LemonWay.TechnicalTest.Services.Tests.dll
+C:\Dev\LemonWay.TechnicalTest\LemonWay.TechnicalTest.Services.Tests\bin\Debug\LemonWay.TechnicalTest.Services.Tests.pdb
+C:\Dev\LemonWay.TechnicalTest\LemonWay.TechnicalTest.Services.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Dev\LemonWay.TechnicalTest\LemonWay.TechnicalTest.Services.Tests\bin\Debug\fr\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Dev\LemonWay.TechnicalTest\LemonWay.TechnicalTest.Services.Tests\obj\Debug\LemonWay.TechnicalTest.Services.Tests.dll
+C:\Dev\LemonWay.TechnicalTest\LemonWay.TechnicalTest.Services.Tests\obj\Debug\LemonWay.TechnicalTest.Services.Tests.pdb
+C:\Dev\LemonWay.TechnicalTest\LemonWay.TechnicalTest.Services.Tests\bin\Debug\LemonWay.TechnicalTest.Services.Tests.dll.config

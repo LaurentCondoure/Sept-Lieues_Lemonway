@@ -1,0 +1,7 @@
+C:\Dev\LemonWay.TechnicalTest\LemonWay.TechnicalTest.Utilities\bin\Debug\LemonWay.TechnicalTest.Utilities.dll
+C:\Dev\LemonWay.TechnicalTest\LemonWay.TechnicalTest.Utilities\bin\Debug\LemonWay.TechnicalTest.Utilities.pdb
+C:\Dev\LemonWay.TechnicalTest\LemonWay.TechnicalTest.Utilities\bin\Debug\log4net.dll
+C:\Dev\LemonWay.TechnicalTest\LemonWay.TechnicalTest.Utilities\bin\Debug\log4net.xml
+C:\Dev\LemonWay.TechnicalTest\LemonWay.TechnicalTest.Utilities\obj\Debug\LemonWay.TechnicalTest.Utilities.csprojResolveAssemblyReference.cache
+C:\Dev\LemonWay.TechnicalTest\LemonWay.TechnicalTest.Utilities\obj\Debug\LemonWay.TechnicalTest.Utilities.dll
+C:\Dev\LemonWay.TechnicalTest\LemonWay.TechnicalTest.Utilities\obj\Debug\LemonWay.TechnicalTest.Utilities.pdb

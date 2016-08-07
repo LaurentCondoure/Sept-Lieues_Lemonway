@@ -1,0 +1,13 @@
+C:\Dev\LemonWay.TechnicalTest\LemonWay.TechnicalTest.Utilities\bin\Release\Resources\Resource_en-US.resx
+C:\Dev\LemonWay.TechnicalTest\LemonWay.TechnicalTest.Utilities\bin\Release\Resources\Resource_fr-FR.resx
+C:\Dev\LemonWay.TechnicalTest\LemonWay.TechnicalTest.Utilities\bin\Release\Resources\Resource_en-US.Designer.cs
+C:\Dev\LemonWay.TechnicalTest\LemonWay.TechnicalTest.Utilities\bin\Release\Resources\Resource_fr-FR.Designer.cs
+C:\Dev\LemonWay.TechnicalTest\LemonWay.TechnicalTest.Utilities\bin\Release\LemonWay.TechnicalTest.Utilities.dll
+C:\Dev\LemonWay.TechnicalTest\LemonWay.TechnicalTest.Utilities\bin\Release\LemonWay.TechnicalTest.Utilities.pdb
+C:\Dev\LemonWay.TechnicalTest\LemonWay.TechnicalTest.Utilities\bin\Release\log4net.dll
+C:\Dev\LemonWay.TechnicalTest\LemonWay.TechnicalTest.Utilities\bin\Release\log4net.xml
+C:\Dev\LemonWay.TechnicalTest\LemonWay.TechnicalTest.Utilities\obj\Release\LemonWay.TechnicalTest.Utilities.Resources.Resource_en-US.resources
+C:\Dev\LemonWay.TechnicalTest\LemonWay.TechnicalTest.Utilities\obj\Release\LemonWay.TechnicalTest.Utilities.Resources.Resource_fr-FR.resources
+C:\Dev\LemonWay.TechnicalTest\LemonWay.TechnicalTest.Utilities\obj\Release\LemonWay.TechnicalTest.Utilities.csproj.GenerateResource.Cache
+C:\Dev\LemonWay.TechnicalTest\LemonWay.TechnicalTest.Utilities\obj\Release\LemonWay.TechnicalTest.Utilities.dll
+C:\Dev\LemonWay.TechnicalTest\LemonWay.TechnicalTest.Utilities\obj\Release\LemonWay.TechnicalTest.Utilities.pdb
