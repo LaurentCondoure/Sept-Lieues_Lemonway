@@ -30,13 +30,6 @@ namespace LemonWay.TechnicalTest.Services
 
         #region WebMethod
 
-        [WebMethod]
-        public int HelloWorld(int baseNumber)
-        {
-            return baseNumber;
-        }
-
-
         /// <summary>
         /// WebMethods used to calcultate the corresponding the Fibonacci sequence number for the number passed as parameter
         /// </summary>
